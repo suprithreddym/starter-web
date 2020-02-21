@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    jason roy rohit sharma rohit.sharma@gmail.com
 
 # THANKS
 

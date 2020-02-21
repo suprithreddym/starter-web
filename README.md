@@ -8,6 +8,8 @@ Sample website with plenty of files for demos
 
 ##test
 
+please fork this repository and then issue pull requests
+
 ###copyrihght
 
 2014 GIt.training

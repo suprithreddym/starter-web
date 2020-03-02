@@ -13,4 +13,4 @@ please fork this repository and then issue pull requests
 
 ###copyrihght
 
-2014 GIt.training
+2014 GIt.training. All rights reserved
